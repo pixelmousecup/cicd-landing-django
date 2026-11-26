@@ -1,3 +1,4 @@
+import app  # noqa: F401
 from django.test import Client
 from cicd_service import CICDGuide
 
